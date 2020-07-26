@@ -13,7 +13,7 @@ h2>Hi, I'm Juan Sebastian!  <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 
 ### My GitHub Stats
 
-![Sebasrock github stats](https://github-readme-stats.vercel.app/api?username=JuanSanchezAdl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![JuanSanchezAdl github stats](https://github-readme-stats.vercel.app/api?username=JuanSanchezAdl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ***********************************
